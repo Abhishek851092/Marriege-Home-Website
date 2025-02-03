@@ -1,0 +1,16 @@
+/banquet-hall-website
+│── index.html
+│── /css
+│   ├── style.css
+│   └── responsive.css
+│── /js
+│   ├── main.js
+│   └── booking.js
+│── /images
+│   ├── hero-bg.jpg
+│   ├── gallery/
+│   ├── venues/
+│   └── testimonials/
+│── /assets
+    ├── icons/
+    └── videos/ 
